@@ -1,7 +1,7 @@
 import pygame
 
-from map import GameMap
-from menu_interface import main_menu
+from battle_city.core.map import GameMap
+from battle_city.ui.menu_interface import main_menu
 
 WIDTH, HEIGHT = 512, 512
 SIZE = 32
